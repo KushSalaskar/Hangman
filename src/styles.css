@@ -121,6 +121,7 @@
   
   .notification-container {
     color: black;
+    font-weight: bolder;
     background-color: rgb(22, 242, 62);
     border-radius: 10px 10px 0 0;
     padding: 15px 20px;
